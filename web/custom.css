@@ -1,0 +1,25 @@
+1#container {
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.search_ul ul{
+    list-style:none;
+    float:left;
+    width:100%;
+}
+
+.search_ul>li{
+    list-style:none;
+    float:left;
+    width:20%;
+    border:solid 2px #333;
+    text-align:center;
+    display:block;
+}
+
+.search_ul input[type=text] { 
+    width:100%;
+
+}
